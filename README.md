@@ -117,3 +117,14 @@
 
 3. Fine-tuning a Local LLM (Typhoon-7B) [`Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week07_GenerativeAI/7_10_LLM_Typhoon7b_Finetuning_Huggingface.ipynb)
 
+### Week08: Data Extraction
+
+1. Typhoon Text Model [`API / Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week07_GenerativeAI/7_8_Typhoon_Text_Inference.ipynb)
+
+1. Basic Webpage Scraping: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week08_Intro_DataEng_DataExtraction/1_Basic_Webpage_Scraping.ipynb)
+
+2. Wikipedia: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week08_Intro_DataEng_DataExtraction/2_Wikipedia_page_data_extraction.ipynb)
+
+3. REST API: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week08_Intro_DataEng_DataExtraction/3_REST_API_Data_Extraction.ipynb)
+
+4. Selenium: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week08_Intro_DataEng_DataExtraction/4_Selenium.ipynb)
