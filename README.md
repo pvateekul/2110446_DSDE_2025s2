@@ -128,3 +128,7 @@
 3. REST API: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week08_Intro_DataEng_DataExtraction/3_REST_API_Data_Extraction.ipynb)
 
 4. Selenium: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week08_Intro_DataEng_DataExtraction/4_Selenium.ipynb)
+
+### Week09: Data Ingestion
+Codes for Data Ingestion are in *code/Week09_DataIngestion*.
+Note that it cannot be run in Colab, must be run locally.
