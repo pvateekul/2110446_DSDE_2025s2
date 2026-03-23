@@ -132,3 +132,7 @@
 ### Week09: Data Ingestion
 Codes for Data Ingestion are in *code/Week09_DataIngestion*.
 Note that it cannot be run in Colab, must be run locally.
+
+### Week10: Data Storage
+Codes for Data Storage are in *code/Week10_DataStorage*.
+Note that it cannot be run in Colab, must be run locally.
